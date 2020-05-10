@@ -1,0 +1,25 @@
+Reference Links for Spring Concepts:
+
+1. Spring Cloud: https://spring.io/cloud
+
+2. Feign: https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-feign.html
+
+3. Zuul ApiGateway : https://spring.io/guides/gs/routing-and-filtering/
+
+4. Eureka Naming Server : https://spring.io/guides/gs/service-registration-and-discovery/
+
+5. Spring Cloud Config Server :
+    https://www.baeldung.com/spring-cloud-configuration
+    https://cloud.spring.io/spring-cloud-config/multi/multi__spring_cloud_config_server.html
+
+6. Hystrix: https://spring.io/guides/gs/circuit-breaker/
+
+7. Sleuth: https://cloud.spring.io/spring-cloud-sleuth/reference/html/
+
+8. Vault: https://spring.io/projects/spring-vault
+
+9. Event Driven : https://spring.io/event-driven
+
+10. Spring Batch : https://spring.io/batch
+
+11. Stream Processing : https://dataflow.spring.io/docs/stream-developer-guides/getting-started/stream/
