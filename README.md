@@ -7,7 +7,7 @@
 spring.application.name=eureka-naming-server
 server.port=8761
 
-# To connect to Naming Server
+#To connect to Naming Server
 eureka.client.service-url.default-zone=http://localhost:8761/eureka
 
 #h2 - In memory database
@@ -23,6 +23,7 @@ currency-exchange-service.ribbon.listOfServers=http://xxxx, http://yyyyy
 
 
 ******************************************* Annotations *******************************************
+
 @SpringBootApplication 
     - To start a Spring boot SpringBootApplication
 
@@ -76,7 +77,7 @@ currency-exchange-service.ribbon.listOfServers=http://xxxx, http://yyyyy
 #Eureka Naming Server 
 spring-cloud-starter-netflix-eureka-server
 
-# ZUUL Api Gateway
+#ZUUL Api Gateway
 spring-cloud-starter-netflix-zuul
 spring-cloud-starter-netflix-eureka-client
 
